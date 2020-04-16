@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "variants-task"
 type = "javascript"
-account_id = ""
+account_id = "4b58e627e5909574c2e2ebb02271cb81"
 workers_dev = true
 route = ""
 zone_id = ""
